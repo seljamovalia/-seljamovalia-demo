@@ -1,2 +1,2 @@
 # -seljamovalia-demo
-first git reposekkk
+first git repose
